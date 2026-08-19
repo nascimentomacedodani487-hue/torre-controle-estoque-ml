@@ -1,0 +1,7 @@
+streamlit==1.61.1
+xgboost==3.4.0
+pandas==2.2.3
+joblib==1.5.3
+pyngrok==8.1.2
+holidays==0.102
+pyarrow==18.1.0
